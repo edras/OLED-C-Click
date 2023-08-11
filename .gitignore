@@ -1,0 +1,9 @@
+.vscode
+.generated_files
+dist/
+debug/
+build/
+private/
+node_modules/
+**/nbproject/Makefile-*
+**/nbproject/Package-*
